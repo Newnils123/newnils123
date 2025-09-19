@@ -27,7 +27,7 @@ Here you can find my links
 
 📫 How to reach me ? Newnils123@users.noreply.github.com
 
-⚡️ Fun fact, I am a linux user from 6 mounth
+⚡️ Fun fact, I am a linux user from 6 month
 
 
 ## 🛠 Skills
