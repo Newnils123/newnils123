@@ -16,6 +16,7 @@ From Switzerland and still learning 🦾
 Here you can find my links
 
 [![portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=ko-fi&logoColor=white&link=x.com%2Fnewnilsoh)](http://www.thereisnothinghere.com/)
+[![twitter](https://img.shields.io/badge/Newnilsoh-black?style=for-the-badge&logo=X&logoColor=white&link=x.com%2Fnewnilsoh)](https://x.com/newnilsoh/)
 [![discord](https://img.shields.io/badge/Newnils-darkblue?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2F475667761670914068)](https://discordapp.com/users/475667761670914068)
 
 
