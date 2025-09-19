@@ -20,7 +20,7 @@ Here you can find my links
 [![discord](https://img.shields.io/badge/Newnils-darkblue?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2F475667761670914068)](https://discordapp.com/users/475667761670914068)
 
 
-## Other things about me
+## 📼 Other things about me
 👩‍💻 I'm currently trying to improve my ability to code
 
 🧠 I'm currently learning C++ and Python
