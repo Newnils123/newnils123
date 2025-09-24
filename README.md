@@ -1,37 +1,38 @@
+# Hi, I'm Nils! 👋
 
-# Hi, I'm Nils ! 👋
-
+<p align="center">
+  <strong>Welcome to my GitHub profile!</strong>
+</p>
 
 ## 🚀 About Me
-I am a developer in training 👨‍🎓
-
-I am 17 Y/o 🎂
-
-From Switzerland and still learning 🦾
-
-
-
+<p align="center">
+  I am a developer in training 👨‍🎓<br>
+  I am 17 years old 🎂<br>
+  From Switzerland and still learning 🦾
+</p>
 
 ## 🔗 Links
-Here you can find my links
+<p align="center">
+  Here you can find my links:
+</p>
 
-[![portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=ko-fi&logoColor=white&link=x.com%2Fnewnilsoh)](http://www.thereisnothinghere.com/)
-[![twitter](https://img.shields.io/badge/Newnilsoh-black?style=for-the-badge&logo=X&logoColor=white&link=x.com%2Fnewnilsoh)](https://x.com/newnilsoh/)
-[![discord](https://img.shields.io/badge/Newnils-darkblue?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2F475667761670914068)](https://discordapp.com/users/475667761670914068)
+<p align="center">
+  <a href="http://www.thereisnothinghere.com/"><img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"></a>
+  <a href="https://x.com/newnilsoh/"><img src="https://img.shields.io/badge/Newnilsoh-black?style=for-the-badge&logo=X&logoColor=white" alt="twitter"></a>
+  <a href="https://discordapp.com/users/475667761670914068"><img src="https://img.shields.io/badge/Newnils-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
+</p>
 
-
-## 📼 Other things about me
-👩‍💻 I'm currently trying to improve my ability to code
-
-🧠 I'm currently learning C++ and Python
-
-💬 Ask me about whatever you can ask me 
-
-📫 How to reach me ? Newnils123@users.noreply.github.com
-
-⚡️ Fun fact, I am a linux user from 6 month
-
+## 📼 Other Things About Me
+<p align="center">
+  👩‍💻 I'm currently working to improve my coding skills<br>
+  🧠 I'm learning C++ and Python<br>
+  💬 Ask me about programming or tech topics<br>
+  📫 How to reach me: Newnils123@users.noreply.github.com<br>
+  ⚡️ Fun fact: I've been a Linux user for 6 months
+</p>
 
 ## 🛠 Skills
-There's nothing here 😭
-
+<p align="center">
+  Python (beginner), C++ (beginner), Linux basics 😄<br>
+  (Building projects like keyloggers for educational purposes!)
+</p>
